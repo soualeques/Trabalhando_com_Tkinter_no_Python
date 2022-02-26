@@ -1,7 +1,5 @@
 from tkinter import *
 
-from pint import test
-
 
 janela = Tk()
 janela.title('--TELA DE LOGIN--')
