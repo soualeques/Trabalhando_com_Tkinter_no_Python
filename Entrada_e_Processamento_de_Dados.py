@@ -19,8 +19,8 @@ lb3 = Label(janela, text="VALOR 1")
 lb3.place(x=100, y=100)
 
 lb4 = Label(janela, text='VALOR 2')
-lb4.place(x=100, y=130
-          )
+lb4.place(x=100, y=130)
+
 ed1 = Entry(janela)
 ed1.place(x=150, y=100)
 

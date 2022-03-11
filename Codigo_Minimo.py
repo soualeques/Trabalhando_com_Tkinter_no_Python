@@ -1,5 +1,5 @@
 import tkinter as tk
-from tkinter.ttk import Label
+
 
 #Cria uma janela para o programa.
 janela = tk.Tk()
@@ -10,7 +10,7 @@ janela.title("Programa do Alex")
 #Podemos mudar a cor do fundo da janela com essas duas opções de comandos.
 janela["bg"] = "pink"
 janela["background"] = "pink"
-Label(janela, text="Olá! sou o Alex e estou aprendendo a usar a biblioteca tkinter.").pack()
+lb = tk.Label(janela, text="Olá! sou o Alex e estou aprendendo a usar a biblioteca tkinter.").pack()
 
 #Modifica o tamanho da janela e onde ela ira aparecer.
 #LARGURA X ALTURA + ONDE APARECE A ESQUERDA DA TELA + ONDE APARECE NO TOPO DA TELA

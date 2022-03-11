@@ -1,4 +1,3 @@
-from cProfile import label
 from tkinter import *
 
 #Função que ocorrera ao apertao o botão
