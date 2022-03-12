@@ -1,0 +1,7 @@
+https://docs.python.org/3/library/tkinter.html
+
+https://www.tcl.tk/
+
+https://tkdocs.com/
+
+https://pyinstaller.readthedocs.io/en/stable/
